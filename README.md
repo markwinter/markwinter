@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a British Software engineer in South Korea.
+I'm a British software engineer in South Korea.
 
 These days I mainly work with: gRPC, C++17, Python3, AI Models, Kubernetes
 
