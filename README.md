@@ -2,7 +2,7 @@
 
 I'm a British software engineer in South Korea.
 
-These days I mainly work with: gRPC, C++17, Python3, AI Models, Kubernetes
+These days I'm mainly doing: gRPC, C++17, Python3, AI Serving, Kubernetes
 
 I'm currently learning Golang
 
