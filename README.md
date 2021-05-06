@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm a British software engineer in South Korea.
-
 These days I'm mainly doing: gRPC, C++17, Python3, Golang, AI Serving, Kubernetes
 
 I also like: algo trading, finance, game dev
